@@ -1,0 +1,164 @@
+/objetivo/
+! .mvn / wrapper / maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.proyecto
+.settings
+.springBeans
+.sts4-caché
+
+
+# Creado por https://www.gitignore.io/api/git,java,maven,eclipse,windows
+
+### Eclipse ###
+
+.metadatos
+compartimiento/
+tmp /
+* .tmp
+* .bak
+* .swp
+* ~ .nib
+propiedades.locales
+.settings /
+.loadpath
+.recommenders
+
+# Constructores de herramientas externos
+.externalToolBuilders /
+
+# "Configuraciones de lanzamiento de Eclipse" almacenadas localmente
+*.lanzamiento
+
+# Específico de PyDev (Python IDE para Eclipse)
+* .pydevproject
+
+# Específico de CDT (herramientas de desarrollo C / C ++)
+.cproyecto
+
+# CDT- autotools
+.autotools
+
+# Procesador de anotaciones Java (APT)
+.factorypath
+
+# PDT específico (herramientas de desarrollo PHP)
+.Construir camino
+
+# complemento sbteclipse
+.objetivo
+
+# Complemento Tern
+.tern-proyecto
+
+# Complemento TeXlipse
+.texlipse
+
+# STS (conjunto de herramientas Spring)
+.springBeans
+
+# Recomendados de código
+.recommenders /
+
+# Procesamiento de anotaciones
+.apt_generated /
+
+# Scala IDE específico (desarrollo de Scala y Java para Eclipse)
+.cache-main
+.scala_dependencies
+.hoja de cálculo
+
+### Parche Eclipse ###
+# Eclipse Core
+.proyecto
+
+# Específico de JDT (Herramientas de desarrollo Java de Eclipse)
+.classpath
+
+# Procesamiento de anotaciones
+.apt_generated
+
+.sts4-cache /
+
+### Git ###
+# Creado por git para copias de seguridad. Para deshabilitar las copias de seguridad en Git:
+# $ git config --global mergetool.keepBackup false
+* .orig
+
+# Creado por git al usar herramientas de fusión para conflictos
+*.APOYO.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTO.*
+* _BACKUP _ *. Txt
+* _BASE _ *. Txt
+* _LOCAL _ *. Txt
+* _REMOTE _ *. Txt
+
+### Java ###
+# Archivo de clase compilado
+*.clase
+
+# Archivo de registro
+*.Iniciar sesión
+
+# Archivos BlueJ
+* .ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# Paquetes de archivos #
+*.tarro
+*.guerra
+* .nar
+*.oído
+*.Código Postal
+* .tar.gz
+* .rar
+
+# registros de fallas de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+
+### Maven ###
+objetivo/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependencia-reducida-pom.xml
+buildNumber.properties
+.mvn / timing.properties
+.mvn / wrapper / maven-wrapper.jar
+
+### Windows ###
+# Archivos de caché de miniaturas de Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo de volcado
+* .stackdump
+
+# Archivo de configuración de carpeta
+[Dd] esktop.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$ RECICLAJE.BIN /
+
+# Archivos de Windows Installer
+*.taxi
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Accesos directos de Windows
+* .lnk
+
+
+# Fin de https://www.gitignore.io/api/git,java,maven,eclipse,windows
